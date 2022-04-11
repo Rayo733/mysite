@@ -1,0 +1,120 @@
+* body {
+    
+    text-align: center;
+}
+.intro {font-family: 'Great Vibes', cursive;
+    text-align: center;
+    font-size: large;
+    color: #66BFBF;
+    font-weight: 300px;
+    background-color: #D7E9F7;
+}
+* h1 {
+    font-size: 50px;
+    color: #66BFBF;
+}
+.top-cloud {
+    padding-top:40px ;
+    position: relative;
+    left: 300px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    
+    
+}
+.fucking-mountain {
+    position:relative;
+}
+.myself {
+    text-align: center;
+    font-size: large;
+    
+}
+.Rayo {
+    height: 200px;
+    width: 200px;
+    border-radius: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    
+
+}
+
+.skills {
+    text-align: center;
+    font-size: large;
+    border-radius: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+
+ 
+}
+.git {
+    border-radius: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+.designs {
+    border-radius: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    margin-top: 100px;
+}
+.awsomer {
+    border-radius: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    margin-top: 100px;
+
+    
+}
+.git {
+    border-radius: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+.contactme {
+    color: aliceblue;
+    border-radius: 20px;
+}
+.momo {
+    margin-right: 30px;
+    font-weight: bold;
+}
+.btn {
+    font-size: 25px;
+    background-color: #66BFBF;
+    border-radius: 25px;
+    font-family: 'Rubik Bubbles', cursive;
+    color: aliceblue;
+}
+.story {
+    position: relative;
+    left: 30px;
+
+}
+#copyright {
+    color: #9D9D9D;
+}
